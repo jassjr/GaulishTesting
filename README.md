@@ -1,4 +1,8 @@
-This is GaulishTesting
+This is GaulishTesting.
+
+
+
+
 Ce projet est un travail pratique (TP) conçu pour approfondir vos compétences en C# tout en suivant des consignes détaillées et structurées. Contrairement aux autres TPs, celui-ci inclut de nombreuses explications pour vous guider étape par étape. Il est crucial de lire attentivement chaque section et de respecter l'ordre des exercices.
 
 Objectifs
